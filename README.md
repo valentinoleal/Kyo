@@ -12,6 +12,7 @@
 - **Soporte para múltiples directorios**: Puedes seleccionar uno o varios directorios para encriptar o desencriptar.
   
 ## Imagenes del proyecto:
+![Menu](https://github.com/user-attachments/assets/61a9ec1d-d71c-4026-b945-a96e8774bd72)
 
 
 ## Instalación
