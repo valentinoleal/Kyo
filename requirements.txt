@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 colorama
 cryptography
-=======
-colorama
-cryptography
->>>>>>> 50d7d16cfe24721f70808753e33f4cc7d70e4f11

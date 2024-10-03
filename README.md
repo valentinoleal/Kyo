@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kyo-Ransomware
 
 ## Descripción
