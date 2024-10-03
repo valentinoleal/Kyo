@@ -40,15 +40,3 @@
 2. Sigue las instrucciones en pantalla para elegir la opción deseada.
 
 
-## Estructura del proyecto
-
-
-kyo-ransomware/
-│
-├── main.py             # Archivo principal que ejecuta el menú
-├── encriptar.py        # Módulo para encriptar archivos y directorios
-├── desencriptar.py     # Módulo para desencriptar archivos y directorios
-├── menu.py             # Módulo del menú interactivo
-├── requirements.txt    # Librerías necesarias para ejecutar el proyecto
-└── owner/              # Carpeta donde se guardan las claves de encriptación y la ruta de los objetivos seleccioandos
-=======
